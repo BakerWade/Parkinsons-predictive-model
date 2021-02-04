@@ -1,0 +1,11 @@
+R2_score: 0.4636363636363636
+[[10  5]
+ [ 1 43]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.67      0.77        15
+           1       0.90      0.98      0.93        44
+
+    accuracy                           0.90        59
+   macro avg       0.90      0.82      0.85        59
+weighted avg       0.90      0.90      0.89        59

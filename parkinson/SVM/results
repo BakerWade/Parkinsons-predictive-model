@@ -1,0 +1,24 @@
+R2_score: 0.11204013377926447
+[[ 4  9]
+ [ 0 46]]
+              precision    recall  f1-score   support
+
+           0       1.00      0.31      0.47        13
+           1       0.84      1.00      0.91        46
+
+    accuracy                           0.85        59
+   macro avg       0.92      0.65      0.69        59
+weighted avg       0.87      0.85      0.81        59
+
+gridsearch:
+R2_score: -0.030158730158730274
+[[ 6  8]
+ [ 3 42]]
+              precision    recall  f1-score   support
+
+           0       0.67      0.43      0.52        14
+           1       0.84      0.93      0.88        45
+
+    accuracy                           0.81        59
+   macro avg       0.75      0.68      0.70        59
+weighted avg       0.80      0.81      0.80        59

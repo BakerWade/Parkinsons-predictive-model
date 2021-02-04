@@ -1,0 +1,25 @@
+DECISION_TREE:
+R2_score: -0.6857142857142859
+[[ 6  4]
+ [10 39]]
+              precision    recall  f1-score   support
+
+           0       0.38      0.60      0.46        10
+           1       0.91      0.80      0.85        49
+
+    accuracy                           0.76        59
+   macro avg       0.64      0.70      0.65        59
+weighted avg       0.82      0.76      0.78        59
+
+RANDOM_FOREST:
+R2_score: 0.8795918367346939
+[[ 9  1]
+ [ 0 49]]
+              precision    recall  f1-score   support
+
+           0       1.00      0.90      0.95        10
+           1       0.98      1.00      0.99        49
+
+    accuracy                           0.98        59
+   macro avg       0.99      0.95      0.97        59
+weighted avg       0.98      0.98      0.98        59
